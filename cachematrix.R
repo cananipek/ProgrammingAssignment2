@@ -1,6 +1,6 @@
-## Write two function to cache the inverse of a matrix
+## Write two functions to cache the inverse of a matrix
 
-## Write a short comment describing this function
+## Creates a special matrix object that can cache its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
 
